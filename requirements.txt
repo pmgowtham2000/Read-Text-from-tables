@@ -1,0 +1,5 @@
+easyOCR
+torch
+torchvision
+torchaudio
+ultralytics
